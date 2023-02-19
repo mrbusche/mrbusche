@@ -11,6 +11,7 @@
 - NodeJS, JavaScript, Java
 - Renovate // Tech Radar
 - Developer Experience // Developer Productivity
+- No merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
 - Building random websites/applications that are of use to only myself
 
