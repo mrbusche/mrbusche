@@ -10,7 +10,7 @@
 - Developer Experience
 - No merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
-- Building random websites/applications that are of use to only myself
+- Building [random websites/applications](https://matthewbusche.com/projects/) that are of use to only myself
 
 ### 📫 How to reach me
 
