@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrbusche&show_icons=true&theme=algolia&count_private=true" alt="setchys's github stats">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mrbusche&show_icons=true&theme=algolia&count_private=true" alt="setchys's github stats">
 
 ### 📖 About me
 
@@ -8,9 +6,8 @@
 
 ### 🔭 Interests
 
-- NodeJS, JavaScript, Java
-- Renovate // Tech Radar
-- Developer Experience // Developer Productivity
+- NodeJS, JavaScript, Java, Docker, CI, Renovate
+- Developer Experience
 - No merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
 - Building random websites/applications that are of use to only myself
