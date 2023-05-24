@@ -6,7 +6,7 @@
 
 ### 🔭 Interests
 
-- NodeJS, JavaScript, Java, Docker, CI, Renovate
+- NodeJS, JavaScript, Java, Docker, CI, Dependabot/Renovate
 - Developer Experience
 - No merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
