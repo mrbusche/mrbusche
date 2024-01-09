@@ -6,9 +6,9 @@
 
 ### 🔭 Interests
 
-- NodeJS, JavaScript, Java, Docker, CI, Dependabot/Renovate
+- NodeJS, JavaScript, Java, Python, Docker, CI/CD, Dependabot/Renovate
 - Developer Experience
-- No merge commits, automatically delete head branches
+- Trunk based development, no merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
 - Building [random websites/applications](https://mrbusche.com/projects/) that are of use to only myself
 
