@@ -2,7 +2,7 @@
 
 ### 📖 About me
 
-- Sr Consultant, Software Engineering - Cloud Operations Consulting
+- Sr Consultant, Software Engineering - Enterprise Tech Consulting
 
 ### 🔭 Interests
 
