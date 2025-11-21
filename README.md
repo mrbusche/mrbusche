@@ -2,11 +2,11 @@
 
 ### 📖 About me
 
-- Sr Consultant, Software Engineering - Enterprise Tech Consulting
+- Software Engineer - Nationwide Financial
 
 ### 🔭 Interests
 
-- NodeJS, JavaScript, Java, Python, Docker, CI/CD, Dependabot/Renovate
+- JavaScript, Java, Python, Docker, CI/CD, Dependabot/Renovate
 - Developer Experience
 - Trunk based development, no merge commits, automatically delete head branches
 - Building strong communities of practice (guilds, chapters, etc)
