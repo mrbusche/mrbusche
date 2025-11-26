@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mrbusche&show_icons=true&theme=algolia&count_private=true" alt="setchys's github stats">
-
 ### 📖 About me
 
 - Software Engineer - Nationwide Financial
